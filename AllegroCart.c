@@ -36,6 +36,7 @@ bool carregar_arquivos();
 void finalizar();
 void geraBit();
 int testaArquivo();
+int maximo();
 bool validaNome();
 void copiaBitmap();
 void telaInicial();

@@ -1,0 +1,2 @@
+gcc AllegroCart.c -lallegro -lallegro_primitives -lallegro_image -lallegro_font -lallegro_ttf -lm -o CART
+
